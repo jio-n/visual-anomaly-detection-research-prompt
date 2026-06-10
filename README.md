@@ -10,7 +10,10 @@
 - 産業用画像異常検知モデル
 - ベンチマーク設計と実験ロードマップ
 
-プロンプト本体は [prompt.md](prompt.md) を参照してください。
+## Contents
+
+- [Research prompt](prompt.md)
+- [Deep research report](deep-research-report.md)
 
 ## Language
 
