@@ -1,0 +1,53 @@
+```yaml
+related_paper:
+  - url: https://arxiv.org/abs/2308.15366
+    note: ""
+  - url: https://openaccess.thecvf.com/content/CVPR2023/html/Jeong_WinCLIP_Zero-Few-Shot_Anomaly_Classification_and_Segmentation_CVPR_2023_paper.html
+    note: ""
+  - url: https://openreview.net/forum?id=buC4E91xZE
+    note: ""
+  - url: https://openaccess.thecvf.com/content/CVPR2024/html/Li_PromptAD_Learning_Prompts_with_only_Normal_Samples_for_Few-Shot_Anomaly_CVPR_2024_paper.html
+    note: ""
+  - url: https://www.ecva.net/papers/eccv_2024/papers_ECCV/html/8761_ECCV_2024_paper.php
+    note: ""
+  - url: https://arxiv.org/abs/2503.10080
+    note: ""
+  - url: https://openaccess.thecvf.com/content/CVPR2025/html/Ma_AA-CLIP_Enhancing_Zero-Shot_Anomaly_Detection_via_Anomaly-Aware_CLIP_CVPR_2025_paper.html
+    note: ""
+  - url: https://openaccess.thecvf.com/content/ICCV2025/html/Gong_FE-CLIP_Frequency_Enhanced_CLIP_Model_for_Zero-Shot_Anomaly_Detection_and_ICCV_2025_paper.html
+    note: ""
+  - url: https://openaccess.thecvf.com/content/ICCV2025/html/Zhu_Fine-grained_Abnormality_Prompt_Learning_for_Zero-shot_Anomaly_Detection_ICCV_2025_paper.html
+    note: ""
+  - url: https://arxiv.org/abs/2502.09057
+    note: ""
+  - url: https://dl.acm.org/doi/10.1145/3676536.3676750
+    note: ""
+  - url: https://arxiv.org/abs/2503.14162
+    note: ""
+  - url: https://arxiv.org/abs/2502.07601
+    note: ""
+  - url: https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_Towards_Training-free_Anomaly_Detection_with_Vision_and_Language_Foundation_Models_CVPR_2025_paper.html
+    note: ""
+  - url: https://ojs.aaai.org/index.php/AAAI/article/view/32433
+    note: ""
+  - url: https://aclanthology.org/2025.acl-industry.29/
+    note: ""
+  - url: https://arxiv.org/abs/2410.09453
+    note: ""
+  - url: https://arxiv.org/abs/2507.21619
+    note: ""
+  - url: https://ojs.aaai.org/index.php/AAAI/article/view/38548
+    note: ""
+  - url: https://arxiv.org/abs/2603.13779
+    note: ""
+  - url: https://arxiv.org/abs/2604.10971
+    note: ""
+  - url: https://arxiv.org/abs/2603.00055
+    note: ""
+  - url: https://arxiv.org/abs/2403.11083
+    note: ""
+  - url: https://arxiv.org/abs/2403.12570
+    note: ""
+```
+
+こちらの方が **論文管理ツール（Zotero・Obsidian・Paperpile・Claude Code の知識ベースなど）** に取り込みやすい形式になっています。
